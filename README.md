@@ -58,3 +58,7 @@ def onCook(scriptOp):
 - video bahannya juga beda sih btw
 - awalnya nyoba, tapi kok blob nya jarangg muncul ya
 - terus ku turunin threshold nya untung jadi sering muncul gitu blob nya
+
+
+## File output 
+- https://github.com/zams-putra/learn-touch-designer/releases/download/BlobTracking/blobtrac-angka.toe
