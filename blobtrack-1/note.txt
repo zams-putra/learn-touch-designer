@@ -1,0 +1,13 @@
+
+## add your video:
+- klik kanan -> add operator -> move file in -> add+ -> pilih videonya
+- fit1 -> 1280 x 720
+- bla bla bla aku gatau cara bikin docs nya buat project ini bjir
+
+
+## Keluh Kesah
+- nyoba sesuai tutor video tuh kadang susah juga ya output ku beda soalnya gatau kenapa
+- video bahannya juga beda sih btw
+- awalnya nyoba, tapi kok blob nya jarang muncul ya
+- terus ku turunin threshold nya untung jadi sering muncul gitu blob nya
+- i ever had some issue pas nonton tutorial, di pop to DAT tabel difference nya ga muncul, dan solved setelah update versi TD nya
