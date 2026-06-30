@@ -1,6 +1,6 @@
 # Dari tutorial
 # Blob Tracker
-
+Sumber belajar:
 - https://derivative.ca/community-post/tutorial/make-viral-blob-tracking-effect-touchdesigner-free/74680
 
 ## File output 
@@ -8,6 +8,7 @@
 
 
 # Blob Tracker X Trace X NumTextCoordinates
+Sumber belajar:
 - https://youtu.be/ioSVh06MySc?si=VJggxOIS-tVRRfoL
 
 ## File output 
