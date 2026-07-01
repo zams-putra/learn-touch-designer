@@ -15,6 +15,12 @@ Sumber belajar:
 - https://github.com/zams-putra/learn-touch-designer/releases/download/BlobTrackerXTracer/blobtrace.toe
 
 
+# Additional Effects
+### Noise Transition
+- use: noise, texture3D, time machine
+- https://github.com/zams-putra/learn-touch-designer/releases/download/NoiseTimeless/noise-timeless.toe
+
+
 
 
 ---
